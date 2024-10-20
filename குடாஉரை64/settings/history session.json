@@ -20,17 +20,5 @@
     "bottom_show" : false,
     "bottom_panel" : "",
     "bottom_size" : 120
-  },
-  "000" : {
-    "modified" : true,
-    "file" : "",
-    "tab_title" : "தலைப்பில்லா1",
-    "group" : 1,
-    "kind" : "",
-    "text" : "அம்மா\nஅருள் முருகன்\n",
-    "enc" : "UTF-8",
-    "tab_size" : 4,
-    "tab_spaces" : false,
-    "crt" : "0,2,-1,-1,"
   }
 }
